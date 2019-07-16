@@ -2,7 +2,7 @@
 
 Welcome to Patrick Wales-Dinan's Project 2 Kaggle Challenge readme
 
-This lab was incredibly challenging. We had to extensively clean a date set that was missing a lot of values and had TONS of categorical data. Then we had to decide what features to use to model that data. After that we had to build and fit the models making decisions like whether to use polynomial features, dummy variables etc, log scaling features or log scaling the depended variable.
+This was quite enjoyable. I attempted to use data from the Ames  I began by extensively cleaning a data set that was missing a lot of values and had TONS of categorical data. The next step was to determine what features to try to use. After that we had to build and fit the models making decisions like whether to use polynomial features, dummy variables etc, log scaling features or log scaling the depended variable.
 
 After that we had to re run our model over and over again, looking at the different values of $\beta$ and seeing if they were contributing to the predictive power of the model. We had to decide if we should throw those values out or if we should leave them. We also had to make judgement calls to see if our model appeared to be over fitting or suffering from bias. 
 
