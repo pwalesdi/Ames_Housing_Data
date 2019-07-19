@@ -30,7 +30,7 @@ There contents are laid out below:
 - [Looking at additional relationships](#Other-Relationships)
 - [Taking a Deeper Look at Log Transformations](#Log-Transformations-Cont.)
 
-![<img src="https://github.com/pwalesdi/Ames_Housing_Data/edit/master/assets/gl_neigh.png")>]
+![ScreenShot](gl_neigh.jpg)
 
 When running the model I found the most success with few variables:
 
