@@ -30,7 +30,15 @@ There contents are laid out below:
 - [Looking at additional relationships](#Other-Relationships)
 - [Taking a Deeper Look at Log Transformations](#Log-Transformations-Cont.)
 
-![alt text](https://github.com/pwalesdi/Ames_Housing_Data/blob/master/assets/gl_neigh.png "Logo Title Text 1")
+## Visual Examples
+### Home Age vs. Price
+![alt text](https://github.com/pwalesdi/Ames_Housing_Data/blob/master/assets/new_homes.png "Relationship between home age and prices")
+
+### Quality rating of a home in Ames vs. Price (sorted by neighborhood)
+![alt text](https://github.com/pwalesdi/Ames_Housing_Data/blob/master/assets/qual_neigh.png "Relationship between the quality rating of a home & price")
+
+### Total above ground living area of a home in Ames vs. Price (sorted by neighborhood)
+![alt text](https://github.com/pwalesdi/Ames_Housing_Data/blob/master/assets/gl_neigh.png "Relationship between the home size & price")
 
 When running the model I found the most success with few variables:
 
