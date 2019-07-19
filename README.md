@@ -8,8 +8,8 @@ This was quite enjoyable. I attempted to use data from the Ames  I began by exte
 After that we had to re run our model over and over again, looking at the different values of $\beta$ and seeing if they were contributing to the predictive power of the model. We had to decide if we should throw those values out or if we should leave them. We also had to make judgement calls to see if our model appeared to be over fitting or suffering from bias. 
 
 There are 2 notebooks associated with this:
-+ FINAL.ipynb
-+ Graphs_&_Relationships.ipynb
++ [Final.ipynb](https://github.com/pwalesdi/Ames_Housing_Data/blob/master/FINAL.ipynb)
++ [Graphs_&_Relationships.ipynb](https://github.com/pwalesdi/Ames_Housing_Data/blob/master/Graphs_%26_Relationships.ipynb)
 
 There contents are laid out below:
 
