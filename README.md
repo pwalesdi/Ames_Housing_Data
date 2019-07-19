@@ -2,7 +2,6 @@ Ames Housing Data and Kaggle Challenge
 
 Welcome to Patrick Wales-Dinan's Project 2 Kaggle Challenge readme
 
-<<<<<<< HEAD
 I started by extensively cleaning a date set that was missing a lot of values and had TONS of categorical data. Then we had to decide what features to use to model that data. After that we had to build and fit the models making decisions like whether to use polynomial features, dummy variables etc, log scaling features or log scaling the depended variable.
 =======
 This was quite enjoyable. I attempted to use data from the Ames  I began by extensively cleaning a data set that was missing a lot of values and had TONS of categorical data. The next step was to determine what features to try to use. After that we had to build and fit the models making decisions like whether to use polynomial features, dummy variables etc, log scaling features or log scaling the depended variable.
