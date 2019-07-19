@@ -30,6 +30,9 @@ There contents are laid out below:
 - [Looking at additional relationships](#Other-Relationships)
 - [Taking a Deeper Look at Log Transformations](#Log-Transformations-Cont.)
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+
 When running the model I found the most success with few variables:
 
 My top prediction has a MSE of 22776.11 on the private score which would have resulted in the top mark unfortunately that was not one of the models that I submitted. My eventual model ended up with a score of 28131.80 on the private leaderboard, good enough for 5th place.
