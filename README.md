@@ -1,11 +1,9 @@
 Ames Housing Data and Kaggle Challenge
 
-Welcome to Patrick Wales-Dinan's Project 2 Kaggle Challenge readme
+Welcome to Patrick Wales-Dinan's Kaggle Challenge readme
 
 I started by extensively cleaning a date set that was missing a lot of values and had TONS of categorical data. Then we had to decide what features to use to model that data. After that we had to build and fit the models making decisions like whether to use polynomial features, dummy variables etc, log scaling features or log scaling the depended variable.
-=======
 This was quite enjoyable. I attempted to use data from the Ames  I began by extensively cleaning a data set that was missing a lot of values and had TONS of categorical data. The next step was to determine what features to try to use. After that we had to build and fit the models making decisions like whether to use polynomial features, dummy variables etc, log scaling features or log scaling the depended variable.
->>>>>>> a9f6037cbe7fad3c918f8315f3e7431d3d207b1b
 
 After that we had to re run our model over and over again, looking at the different values of $\beta$ and seeing if they were contributing to the predictive power of the model. We had to decide if we should throw those values out or if we should leave them. We also had to make judgement calls to see if our model appeared to be over fitting or suffering from bias. 
 
@@ -36,18 +34,10 @@ When running the model I found the most success with few variables:
 
 My top prediction has a MSE of 22776.11 on the private score which would have resulted in the top mark unfortunately that was not one of the models that I submitted. My eventual model ended up with a score of 28131.80 on the private leaderboard, good enough for 5th place.
 
-<<<<<<< HEAD
 I also encourage you to view my presentation on the data at Ames_housing_Presentation.pptx
-=======
-I also encourage you to view my presentation on the data at Project_2_Presentation.pptx
->>>>>>> a9f6037cbe7fad3c918f8315f3e7431d3d207b1b
 
 Finally the predictions folder contains many but not all of my predictions for the model. 
 
 the csv file labeled wd_prediction_1.csv contains the predictions that had the lowest MSE
 
-<<<<<<< HEAD
 Overall this project was a fantastic experience!
-=======
-Overall this project was a fantastic experience!
->>>>>>> a9f6037cbe7fad3c918f8315f3e7431d3d207b1b
