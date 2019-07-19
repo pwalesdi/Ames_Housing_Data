@@ -40,6 +40,8 @@ There contents are laid out below:
 ### Total above ground living area of a home in Ames vs. Price (sorted by neighborhood)
 ![alt text](https://github.com/pwalesdi/Ames_Housing_Data/blob/master/assets/gl_neigh.png "Relationship between the home size & price")
 
+## Findings
+
 When running the model I found the most success with few variables:
 
 My top prediction has a MSE of 22776.11 on the private score which would have resulted in the top mark unfortunately that was not one of the models that I submitted. My eventual model ended up with a score of 28131.80 on the private leaderboard, good enough for 5th place.
