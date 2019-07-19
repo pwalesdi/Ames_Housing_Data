@@ -13,7 +13,7 @@ There are 2 notebooks associated with this:
 
 There contents are laid out below:
 
-## Contents: Project 2 Final
+## Contents: Final
 - [Data Import](#Data-Import)
 - [Feature Creation](#Feature-Creation)
 - [Choosing the Features](#Feature-Choice)
