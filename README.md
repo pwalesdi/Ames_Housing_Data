@@ -8,8 +8,8 @@ This was quite enjoyable. I attempted to use data from the Ames  I began by exte
 After that we had to re run our model over and over again, looking at the different values of $\beta$ and seeing if they were contributing to the predictive power of the model. We had to decide if we should throw those values out or if we should leave them. We also had to make judgement calls to see if our model appeared to be over fitting or suffering from bias. 
 
 There are 2 notebooks associated with this:
-1. Project_2_FINAL.ipynb
-2. Project_2_Graphs & Relationships.ipynb
++ FINAL.ipynb
++ Graphs_&_Relationships.ipynb
 
 There contents are laid out below:
 
